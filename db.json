@@ -2,7 +2,7 @@
   "conversas": 
   [
     {
-      "ConversaId": 1,
+      "id": 1,
       "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_01.jpg",
       "DataConversa": "19 DE JULHO DE 2018",
       "Prioritaria": true,
@@ -18,17 +18,17 @@
           "Tipo": 200
         },
         {
-          "Texto": "… o Pablo da Ius",
+          "Texto": "√â o Pablo da Ius",
           "Ordem": 3,
           "Tipo": 200
         },
         {
-          "Texto": "Hj ta t„o correria q nem deu tempo d te adicionar aqui antes",
+          "Texto": "Hj ta t√£o correria q nem deu tempo d te adicionar aqui antes",
           "Ordem": 4,
           "Tipo": 200
         },
         {
-          "Texto": "Dia d CAL Padr„o È tenso!!!",
+          "Texto": "Dia d CAL Padr√£o √© tenso!!!",
           "Ordem": 5,
           "Tipo": 200
         },
@@ -38,7 +38,7 @@
           "Tipo": 100
         },
         {
-          "Texto": "Rs entendo. Amanh„ meu dia vai ser assim.",
+          "Texto": "Rs entendo. Amanh√£ meu dia vai ser assim.",
           "Ordem": 7,
           "Tipo": 100
         },
@@ -53,12 +53,12 @@
           "Tipo": 200
         },
         {
-          "Texto": "Vc faz os testes da aplicaÁ„o do CAL?",
+          "Texto": "Vc faz os testes da aplica√ß√£o do CAL?",
           "Ordem": 10,
           "Tipo": 200
         },
         {
-          "Texto": "N„o n„o.",
+          "Texto": "N√£o n√£o.",
           "Ordem": 11,
           "Tipo": 100
         },
@@ -83,12 +83,12 @@
           "Tipo": 100
         },
         {
-          "Texto": "Desculpa responder sÛ agora. Tava arrumando umas coisas.",
+          "Texto": "Desculpa responder s√≥ agora. Tava arrumando umas coisas.",
           "Ordem": 16,
           "Tipo": 100
         },
         {
-          "Texto": "Esquenta n„o, cheguei em casa agora pouco, e ainda tomei bronca da Noeme",
+          "Texto": "Esquenta n√£o, cheguei em casa agora pouco, e ainda tomei bronca da Noeme",
           "Ordem": 17,
           "Tipo": 200
         },
@@ -103,7 +103,7 @@
           "Tipo": 100
         },
         {
-          "Texto": "A NoÍmia È doida",
+          "Texto": "A No√™mia √© doida",
           "Ordem": 20,
           "Tipo": 100
         },
@@ -113,22 +113,22 @@
           "Tipo": 100
         },
         {
-          "Texto": "Doida??? … elogio, aquilo l· teve algum trauma na inf‚ncia n„o tem condiÁ„o",
+          "Texto": "Doida??? √â elogio, aquilo l√° teve algum trauma na inf√¢ncia n√£o tem condi√ß√£o",
           "Ordem": 22,
           "Tipo": 200
         },
         {
-          "Texto": "Ela me ligou falando q o alarme da casa e do anexo n„o foram armados",
+          "Texto": "Ela me ligou falando q o alarme da casa e do anexo n√£o foram armados",
           "Ordem": 23,
           "Tipo": 200
         },
         {
-          "Texto": "Como eu fui o ˙ltimo a sair hj, ela me ligou perguntando se eu lembrei d arma-lo",
+          "Texto": "Como eu fui o √∫ltimo a sair hj, ela me ligou perguntando se eu lembrei d arma-lo",
           "Ordem": 24,
           "Tipo": 200
         },
         {
-          "Texto": "E eu lembrei, armei ele direitinho l·, sÛ q ela disse q n„o tava",
+          "Texto": "E eu lembrei, armei ele direitinho l√°, s√≥ q ela disse q n√£o tava",
           "Ordem": 25,
           "Tipo": 200
         },
@@ -138,7 +138,7 @@
           "Tipo": 200
         },
         {
-          "Texto": "Ela È doida mesmo. Mas fica tranquilo. Amanh„ È sexta",
+          "Texto": "Ela √© doida mesmo. Mas fica tranquilo. Amanh√£ √© sexta",
           "Ordem": 27,
           "Tipo": 100
         },
@@ -153,12 +153,12 @@
           "Tipo": 100
         },
         {
-          "Texto": "Boa noite, atÈ amanh„.",
+          "Texto": "Boa noite, at√© amanh√£.",
           "Ordem": 31,
           "Tipo": 100
         },
         {
-          "Texto": "Meu objetivo amanh„ È tentar me esconder da Noeme",
+          "Texto": "Meu objetivo amanh√£ √© tentar me esconder da Noeme",
           "Ordem": 32,
           "Tipo": 200
         },
@@ -168,12 +168,12 @@
           "Tipo": 200
         },
         {
-          "Texto": "AtÈ amanha...",
+          "Texto": "At√© amanha...",
           "Ordem": 34,
           "Tipo": 200
         },
         {
-          "Texto": "Pra vocÍ tambÈm.",
+          "Texto": "Pra voc√™ tamb√©m.",
           "Ordem": 35,
           "Tipo": 100
         }
