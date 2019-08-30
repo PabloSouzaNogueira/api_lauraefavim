@@ -5,7 +5,7 @@
         "id": 1,
         "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_01.jpg",
         "DataConversa": "19 DE JULHO DE 2018",
-        "Prioritaria": true,
+        "Prioritaria": false,
         "Mensagens": [
             {
                 "Texto": "Eeeeii",
