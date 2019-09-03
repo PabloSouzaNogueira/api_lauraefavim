@@ -1697,6 +1697,407 @@
                 "Tipo": 100
             }
         ]
+    },
+    {
+        "id": 10,
+        "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_05.jpg",
+        "DataConversa": "22 DE JULHO DE 2018",
+        "Prioritaria": false,
+        "Mensagens": [
+            {
+                "Texto": "Já viu o filme 'A cabana'",
+                "Ordem": 1,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Não mas já ouvi falar",
+                "Ordem": 2,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Acho q tem até livro inclusive",
+                "Ordem": 3,
+                "Tipo": 200
+            },
+            {
+                "Texto": "É.",
+                "Ordem": 4,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas o filme foi melhor.",
+                "Ordem": 5,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Não é nada de romancinho",
+                "Ordem": 6,
+                "Tipo": 100
+            },
+            {
+                "Texto": "É tipo de resignificação de Deus.",
+                "Ordem": 7,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Resignificaçao",
+                "Ordem": 8,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Admito tive q procurar o significado no google",
+                "Ordem": 9,
+                "Tipo": 200
+            },
+            {
+                "Texto": "É um tema bem complicado d ser abordado. Ainda mais em filme.",
+                "Ordem": 10,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs.  Juro por Deus que as vezes vou falar alguma coisa que não é tão comum, alguma palavra 'difícil' porque é uma coisa involuntária pra mim. Eu lido com palavras o dia inteiro.  Então acabo absorvendo. Não pra tentar ser juridiquês.",
+                "Ordem": 11,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eu juro",
+                "Ordem": 12,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Aí sempre que eu falar alguma coisa assim vai por dedução:",
+                "Ordem": 13,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Talvez você não entenda o significado da palavra, mas o significado da metade da palavra você sabe.",
+                "Ordem": 14,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Por exemplo: resignificar. Significado= o que é algo. Resignificação é dar significado novo a algo.",
+                "Ordem": 15,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Que antes já tinha um.",
+                "Ordem": 16,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Dá pra ser lógica em humanas.",
+                "Ordem": 17,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Gnt q pessoa culta",
+                "Ordem": 18,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Acho q eu estou conversando com o kesley versão feminina",
+                "Ordem": 19,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Eu as vezes demoro meia hora pra escrever um email formal pra mandar pro Ricardo e pro Leo",
+                "Ordem": 20,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vou querer ter umas aulas contigo",
+                "Ordem": 21,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Socorro Jesus",
+                "Ordem": 22,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eu não sou formal.  Juro por Deus. Acho o formalismo chato, afasta as pessoas umas das outras.  Mas como lido com escrita, acabo aprendendo.",
+                "Ordem": 23,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas você num PC deve 'mitar'",
+                "Ordem": 24,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Toooo zuaaandooooo",
+                "Ordem": 25,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Kkkkkk não fica bravinho.",
+                "Ordem": 26,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Não tô brigando. Tô explicando. Só não me chama de Kesley feminino.",
+                "Ordem": 27,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Fica calminha. Eu sei q NINGUEM quer ser comparado ao K. Principalmente vc. Então forcei um pouco só pra ver qual seria sua reação",
+                "Ordem": 28,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Não faço direito e nem psicologia",
+                "Ordem": 29,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Mas tbm analiso as pessoas",
+                "Ordem": 30,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Cê que tá igual ele.  Testando as pessoas pra saber qual a reação.",
+                "Ordem": 31,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Delas.",
+                "Ordem": 32,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Que medo.",
+                "Ordem": 33,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Já quero a minha.",
+                "Ordem": 34,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Touche",
+                "Ordem": 35,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Isso é graças a 6 temporadas d The Mentalist",
+                "Ordem": 36,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ainda não posso dizer...",
+                "Ordem": 37,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Faz uma pré análise.",
+                "Ordem": 38,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Vaaai, por favor...",
+                "Ordem": 39,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Vaaai, por favor...",
+                "Ordem": 39,
+                "Tipo": 100
+            },
+            {
+                "Texto": "AUDIO: Ahhh Laura! Pelo whatsapp não dá pra analisar uma pessoa usando apenas mensagens de texto. Essa série The Mentalist o personagem principal analisa as pessoas com base no seu comportamento e tals, pelo whatsapp não dá pra fazer isto.",
+                "Ordem": 40,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Tudo bem Dr. House da psicologia.",
+                "Ordem": 41,
+                "Tipo": 100
+            },
+            {
+                "Texto": "É. Concordo com você.",
+                "Ordem": 42,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Faz sentido!",
+                "Ordem": 43,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Whatsapp é muito pobre pra conseguir fazer a gente tentar entender alguém.",
+                "Ordem": 44,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Sei lá.",
+                "Ordem": 45,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Não tem como. Só olho no olho msmo",
+                "Ordem": 46,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Pode surgir a tecnologia q for q nada ira substituir uma conversa no olhar presencialmente",
+                "Ordem": 47,
+                "Tipo": 200
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_01.jpg",
+        "DataConversa": "23 DE JULHO DE 2018",
+        "Prioritaria": false,
+        "Mensagens": [
+            {
+                "Texto": "Rs.  Bom dia 🌹 do dia.  Me desculpa, ontem eu mimi e te deixei falando só.",
+                "Ordem": 1,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Que vergonha😭.",
+                "Ordem": 2,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eeeeiiii buenos diassss senhoritaaa 😆😆😆",
+                "Ordem": 3,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Que nada, tbm mandei o audio e fui dormir logo em seguida. 😬😬😬",
+                "Ordem": 4,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs.",
+                "Ordem": 5,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Como não se animar com um bom dia desses ?!",
+                "Ordem": 6,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eu chegando na Ius, e lembrando q não te viria hj 😔😔 só amanhã!!!!",
+                "Ordem": 7,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Nooooooooi",
+                "Ordem": 8,
+                "Tipo": 200
+            },
+            {
+                "Texto": "🤣🤣🤣",
+                "Ordem": 9,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs.  Não fica se achando a última bolacha do pacote, mas hoje pensei nisso também.",
+                "Ordem": 10,
+                "Tipo": 100
+            },
+            {
+                "Texto": "E tô um pouco triste por não ir trabalhar",
+                "Ordem": 11,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😊😊😊😊",
+                "Ordem": 12,
+                "Tipo": 200
+            },
+            {
+                "Texto": "É bom sow. A gnt reclama q ta cansado, q não aguenta ter q acordar todo dia cedo pra trabalhar e tals, mas no fundo no fundo nós sentimos falta disto",
+                "Ordem": 13,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Com certeza",
+                "Ordem": 14,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Minha avó é linda!",
+                "Ordem": 15,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Hummmmmmm",
+                "Ordem": 16,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Isso é falta d respeito comigo",
+                "Ordem": 17,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Me mandar uma foto dessas logo pela manhã",
+                "Ordem": 18,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vc não tem coração não ehhh 😤😤😤😬😬😬",
+                "Ordem": 19,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs. Quis compartilhar o momento com você.",
+                "Ordem": 20,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😁",
+                "Ordem": 21,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😍😍😍😍 queria eu estar ai compartilhando junto",
+                "Ordem": 22,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Enquanto isso estou aqui lutando contra o meu demongorgon",
+                "Ordem": 23,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Socorro Deus",
+                "Ordem": 24,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Parece um joguinho 🤣🤣🤣🤣",
+                "Ordem": 25,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Nehhhh",
+                "Ordem": 26,
+                "Tipo": 200
+            },
+            {
+                "Texto": "É só ta dando game over pra mim",
+                "Ordem": 27,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Kkkkkkkk",
+                "Ordem": 28,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs.",
+                "Ordem": 29,
+                "Tipo": 100
+            }
+        ]
     }
 ]
 }
