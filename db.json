@@ -1950,7 +1950,7 @@
         "id": 11,
         "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_01.jpg",
         "DataConversa": "23 DE JULHO DE 2018",
-        "Prioritaria": true,
+        "Prioritaria": false,
         "Mensagens": [
             {
                 "Texto": "Rs.  Bom dia 🌹 do dia.  Me desculpa, ontem eu mimi e te deixei falando só.",
