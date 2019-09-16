@@ -2232,7 +2232,185 @@
             }
             
         ]
+    },
+    {
+        "id": 13,
+        "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_03.jpg",
+        "DataConversa": "23 DE JULHO DE 2018",
+        "Prioritaria": false,
+        "Mensagens": [
+            {
+                "Texto": "A Lucélia tava perguntando d nós 🤣🤣🤣😬😬😬😬",
+                "Ordem": 1,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😂😂😂😂 Lucelinda",
+                "Ordem": 2,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Lucélia Rubens isso sim",
+                "Ordem": 3,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😂😂😂😂😂",
+                "Ordem": 4,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs.  🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+                "Ordem": 5,
+                "Tipo": 100
+            },
+            {
+                "Texto": "O que ela disse?!",
+                "Ordem": 6,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Ela chegou com um papo lá q tinha mais gnt 'admirando' o setor de Desenvolvimento",
+                "Ordem": 7,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Só q dessa vez era outro integrante da equipe",
+                "Ordem": 8,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Kkkkkkkkk",
+                "Ordem": 9,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ai ela aproveitou e puxou o assunto d nós",
+                "Ordem": 10,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😂😂😂😂😂",
+                "Ordem": 11,
+                "Tipo": 100
+            },
+            {
+                "Texto": "E o que você disse ?",
+                "Ordem": 12,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Não disse muita coisa. Só disse q estávamos conversando pelo whats",
+                "Ordem": 13,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Msmo pq se falar dmais vc ja conhece a fera neh kkkkkkkkkkkk",
+                "Ordem": 14,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vai ser até pauta do proximo Ius Livre",
+                "Ordem": 15,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😂😂😂😂😂",
+                "Ordem": 16,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Aí meu Deus",
+                "Ordem": 17,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Acho que nem isso você deveria dizer rs",
+                "Ordem": 18,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Se isso chegar no Kesley eu tô morta.",
+                "Ordem": 19,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😂😂😂😂😂",
+                "Ordem": 20,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eu vou descer com mamãe.",
+                "Ordem": 21,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Beijos. Bom trabalho 😚😚😚",
+                "Ordem": 21,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😬😬😬😬 nós dois então",
+                "Ordem": 22,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Mas pra mim vai valer apena 😊😊",
+                "Ordem": 23,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Brigaduuu ótimo dia. Bjos 😚😚😚",
+                "Ordem": 24,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Beijos.",
+                "Ordem": 25,
+                "Tipo": 100
+            },
+            {
+                "Texto": "To livreeee... por hj",
+                "Ordem": 26,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Amanhã tem mais 😆😆😆",
+                "Ordem": 27,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs.  Amanhã vou direto trabalhar.",
+                "Ordem": 28,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Me deseje boa sorte.",
+                "Ordem": 29,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😭😭😭😭",
+                "Ordem": 30,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Amanhã só por Deus mesmo.",
+                "Ordem": 31,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Vou desejar lá na cozinha amanhã 😄😄",
+                "Ordem": 32,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Kkkkkk",
+                "Ordem": 33,
+                "Tipo": 100
+            },
+            
+        ]
     }
-
 ]
 }
