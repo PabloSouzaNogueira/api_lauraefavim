@@ -2410,7 +2410,396 @@
                 "Tipo": 100
             }
         ]
+    },
+    {
+        "id": 14,
+        "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_04.jpg",
+        "DataConversa": "24 DE JULHO DE 2018",
+        "Prioritaria": false,
+        "Mensagens": [
+            {
+                "Texto": "Lembrei d vc e d q estou te devendo uma paçoca 😬😬😬",
+                "Ordem": 1,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Nem me lembra de paçoca 😭😭😭😭😭",
+                "Ordem": 2,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Espera quando chegar a época d TCC",
+                "Ordem": 3,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vai sentir saudades d vender paçoca",
+                "Ordem": 4,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Já escolhi meu tema 🙏🏼",
+                "Ordem": 5,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Menos mau",
+                "Ordem": 6,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Rs",
+                "Ordem": 7,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas já tô ansiosa desde agora rs",
+                "Ordem": 8,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😭😭😭😭",
+                "Ordem": 9,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Nossa e direito a cobrança deve ser enorme pra tcc",
+                "Ordem": 10,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Fico até com dó 😅",
+                "Ordem": 11,
+                "Tipo": 200
+            },
+            {
+                "Texto": "A parte escrita então",
+                "Ordem": 12,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Deve ter q escrever uma bíblia quase",
+                "Ordem": 13,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😭😭😭😭😭",
+                "Ordem": 14,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Nem lembra disso agora. Rs",
+                "Ordem": 15,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Vou desligar meu telefone porque tá com pouca bateria.",
+                "Ordem": 16,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Se eu chegar em BH e ele não despertar, não consigo trabalhar",
+                "Ordem": 17,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Rs.",
+                "Ordem": 18,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Beijos. Boa noite.",
+                "Ordem": 19,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😚",
+                "Ordem": 20,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Tchau gatinha, ate manhã",
+                "Ordem": 21,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😚😚",
+                "Ordem": 22,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Beijaaaooo",
+                "Ordem": 23,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Até.",
+                "Ordem": 24,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Cozinha cheia gnt",
+                "Ordem": 25,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Meuuuuu deuuuss",
+                "Ordem": 26,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Kkkkkkkkk",
+                "Ordem": 27,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs.  Boa tarde quase noite.",
+                "Ordem": 28,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Agora que acordei pra por esse telefone pra carregar.",
+                "Ordem": 29,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Kkkkkk ta certo",
+                "Ordem": 30,
+                "Tipo": 200
+            },
+            {
+                "Texto": "O problema q vai chegar a noite",
+                "Ordem": 31,
+                "Tipo": 200
+            },
+            {
+                "Texto": "E não vai ter mais sono rsrsrsrs",
+                "Ordem": 32,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ahhh aproveitar q lembrei e q não estamos na cozinha lotada da Ius",
+                "Ordem": 33,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vc estava linda hj!! Adorei seu cabelo 😊😊😊",
+                "Ordem": 34,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ainda mais dps d tê-lo beijado 😊😊😅😅",
+                "Ordem": 35,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs brigada 😊",
+                "Ordem": 36,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Rs cê também tava diferente. Não sei explicar exatamente em que.",
+                "Ordem": 37,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas tava muito amável hoje.",
+                "Ordem": 38,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Ultimamente estou me sentido assim",
+                "Ordem": 39,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Amável e ansioso 😬😬",
+                "Ordem": 40,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ansioso como sempre kkkkk",
+                "Ordem": 41,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Nem fala essa palavra.  Eu tenho problemas com ela.  Rs",
+                "Ordem": 42,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Rezo muito pra que isso melhore. Acho que agora tenho que fazer isso por 2",
+                "Ordem": 43,
+                "Tipo": 100
+            },
+            {
+                "Texto": "🤣🤣🤣 por favor. To precisando bastante",
+                "Ordem": 44,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Inclusive as duas vezes q fiz exame adimissional e mudança d cargo o médico disse q estava com pressão alta :/",
+                "Ordem": 45,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Pra mim é a ansiedade q faz isso cmg",
+                "Ordem": 46,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Com certeza, não tenha dúvidas. É isso é bastante perigoso.",
+                "Ordem": 47,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eu participo de rodas de cv sobre o tema e gosto porque tô mudando alguns hábitos pra ver se consigo aliviar um pouco.",
+                "Ordem": 48,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas a rotina da gente já é o bastante pra deixar que fiquemos asiosos.",
+                "Ordem": 49,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas é sempre bom no meio do dia procurar um escape",
+                "Ordem": 50,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Massa. Ainda bem q ja está tratando. Tenho q começar a fazer o msmo",
+                "Ordem": 51,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Quando era criança acho q era pior",
+                "Ordem": 52,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Tipo eu lembro d quando tinha uns 10 anos",
+                "Ordem": 53,
+                "Tipo": 200
+            },
+            {
+                "Texto": "E tinha aula as 12 horas",
+                "Ordem": 54,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Eu saia 11:35 no prego kkkk",
+                "Ordem": 55,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Nossa! Sou assim até hoje.  😭😭😭😭",
+                "Ordem": 56,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas dava 11:00 eu ja estava pronto pra sair, e dicava o tempo todo olhando pro relógio com medo d perder a hora",
+                "Ordem": 57,
+                "Tipo": 200
+            },	
+            {
+                "Texto": "Extremamente pontual.  Não por gostar de ser, mas pela ansiedade.",
+                "Ordem": 58,
+                "Tipo": 100
+            },	
+            {
+                "Texto": "Essa sessão era horrível",
+                "Ordem": 59,
+                "Tipo": 200
+            },
+            {
+                "Texto": "E ninguém entende. Acha que é frescura.",
+                "Ordem": 60,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😔😔😔",
+                "Ordem": 61,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Mas é como se a gente habitasse um planeta diferente.",
+                "Ordem": 62,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Stranger Things total kkkkkkkkk",
+                "Ordem": 63,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😂😂😂😂😂",
+                "Ordem": 64,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Melhor definição.",
+                "Ordem": 65,
+                "Tipo": 100
+            },
+            {
+                "Texto": "A cabeça não desliga.",
+                "Ordem": 66,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Não relação é muita Pre Ocupação",
+                "Ordem": 67,
+                "Tipo": 100
+            },
+            {
+                "Texto": "A gente não se ocupa do momento que a gente tá vivendo porque a cabeça já tá lá no dia de amanhã.",
+                "Ordem": 68,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Sem ao menos saber se ele vai chegar .",
+                "Ordem": 69,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Sim sim",
+                "Ordem": 70,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Por exemplo: a gente tá agora conversando e isso é o que deveria bastar, preencher a gente por agora.",
+                "Ordem": 71,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Essa vontade d tentar abraçar o mundo e resolver todos os problemas de uma vez",
+                "Ordem": 72,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Mas o inconsciente tá lá nas mil coisas que vem amanhã.",
+                "Ordem": 73,
+                "Tipo": 100
+            },
+            {
+                "Texto": "No maldito CAAAAAAAALLLLLLL",
+                "Ordem": 74,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😂😂😂😂😂",
+                "Ordem": 75,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Sim. E nessa tentativa de abraçar a lua a gente não curte nada.",
+                "Ordem": 76,
+                "Tipo": 100
+            }
+        ]
     }
+
     
 ]
 }
