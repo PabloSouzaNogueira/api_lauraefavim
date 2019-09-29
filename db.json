@@ -2803,7 +2803,7 @@
         "id": 15,
         "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_06.jpg",
         "DataConversa": "28 DE SETEMBRO DE 2018",
-        "Prioritaria": true,
+        "Prioritaria": false,
         "Mensagens": [
             {
                 "Texto": "Meu bem vou acabar um negócio aqui.",
