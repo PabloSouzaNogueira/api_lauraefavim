@@ -3417,7 +3417,306 @@
                 "Tipo": 100
             },
         ]
+    },
+    {
+        "id": 18,
+        "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_03.jpg",
+        "DataConversa": "24 DE JULHO DE 2018",
+        "Prioritaria": false,
+        "Mensagens": [
+            {
+                "Texto": "Ohhhh",
+                "Ordem": 1,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ai vc me surpreendeu",
+                "Ordem": 2,
+                "Tipo": 200
+            },
+            {
+                "Texto": "O Rappa",
+                "Ordem": 3,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Até imagino vc nos auge dos 15 aninhos, revoltada com a vida, escutando Rappa",
+                "Ordem": 4,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Badass dmais",
+                "Ordem": 5,
+                "Tipo": 200
+            },
+            {
+                "Texto": "😂😂🤣🤣🤣",
+                "Ordem": 6,
+                "Tipo": 200
+            },
+            {
+                "Texto": "🤣🤣🤣🤣",
+                "Ordem": 7,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Nada.",
+                "Ordem": 8,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Aqui em casa todo mundo gosta. Desde nova eu ouço.",
+                "Ordem": 9,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Já fui em dois shows deles. Os melhores da minha vida.",
+                "Ordem": 10,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas agora o Falcão tá sozinho né.  Eles desfizeram a banda.",
+                "Ordem": 12,
+                "Tipo": 100
+            },
+            {
+                "Texto": "As letras são muito boas realmente",
+                "Ordem": 12,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ouvi falar nisso. Ai ele esta cantando só música d carreira solo? Ou ainda canta as clássicas da banda?",
+                "Ordem": 13,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Canta os clássicos",
+                "Ordem": 14,
+                "Tipo": 100
+            },
+            {
+                "Texto": "https://youtu.be/mxYCpYG73BI",
+                "Ordem": 15,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Porque as músicas são do irmão dele.",
+                "Ordem": 16,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Vai uma das minhas então pra vc ouvir",
+                "Ordem": 17,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Tá.  Nem tanto egoísmo né. ?!",
+                "Ordem": 18,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Do irmão como assim? Tipo quem compôs foi o irmão e o Falcão q canta?",
+                "Ordem": 19,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Que delícia de música.",
+                "Ordem": 20,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Gostei.",
+                "Ordem": 21,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Sim.",
+                "Ordem": 22,
+                "Tipo": 100
+            },
+            {
+                "Texto": "O Falcão compõe pouquíssimo.",
+                "Ordem": 23,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Gosta de Jack Johnson?",
+                "Ordem": 24,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Acho q nunca ouci",
+                "Ordem": 25,
+                "Tipo": 200
+            },
+            {
+                "Texto": "https://youtu.be/7TTztEeL7Yg",
+                "Ordem": 26,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Essa todo mundo já 😊",
+                "Ordem": 27,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Deixa eu ouvir aqui então",
+                "Ordem": 28,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ahhhh sim essa eu conheço 😂😂😂",
+                "Ordem": 29,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vai ver sou fã desse cara e nem sabia 😅",
+                "Ordem": 30,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Show dmais",
+                "Ordem": 31,
+                "Tipo": 200
+            },
+            {
+                "Texto": "🤣🤣🤣",
+                "Ordem": 32,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Todo mundo conhece essa.",
+                "Ordem": 33,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Enfim. Escuto quase tudo.",
+                "Ordem": 34,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas tenho meus preferidinhos",
+                "Ordem": 35,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Sei bem",
+                "Ordem": 36,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Aqueles q coloca no pendrive do carro em loop infinito",
+                "Ordem": 37,
+                "Tipo": 200
+            },
+            {
+                "Texto": "https://youtu.be/mbIz0tzWaDQ",
+                "Ordem": 38,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vai a última pra ti",
+                "Ordem": 39,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs",
+                "Ordem": 40,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Pq sei q ja deve estar com soninho",
+                "Ordem": 41,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Eu dormi a tarde. Até que tô com pouquíssimo sono",
+                "Ordem": 42,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Rs.",
+                "Ordem": 43,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eu ia mandar mais uma também.",
+                "Ordem": 44,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Só que daí pensei nossa ele deve tá assim: nossa que chata 🤣",
+                "Ordem": 45,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Jamaaaiss. Ja disse q vc não me incomoda. Mas só perde pro Rick The Father 😬",
+                "Ordem": 46,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Manda manda manda",
+                "Ordem": 47,
+                "Tipo": 200
+            },
+            {
+                "Texto": "https://youtu.be/EJN-rzytlYI",
+                "Ordem": 47,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Acho que a banda mais nesse estilo que gosto é essa.",
+                "Ordem": 48,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Que eu lembre.",
+                "Ordem": 49,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Kkkk é incrível como estou diante de um cosplay meu masculino.",
+                "Ordem": 50,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Nooooosaaaaa Lumineersssss ehhh foooooodaaaaaaa",
+                "Ordem": 51,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Você é tão ansioso quanto eu e manda mensagem todas picadas. Assim como eu. Porque não tem paciência de escrever tudo junto.",
+                "Ordem": 52,
+                "Tipo": 100
+            },
+            {
+                "Texto": "🤣🤣🤣🤣",
+                "Ordem": 53,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Kkkkkkkk",
+                "Ordem": 54,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Num guentei",
+                "Ordem": 55,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vc mandou luminerss sei la como escreve",
+                "Ordem": 56,
+                "Tipo": 200
+            },
+            {
+                "Texto": "É bom dmais",
+                "Ordem": 57,
+                "Tipo": 200
+            }
+        ]
     }
+
 
     
 ]
