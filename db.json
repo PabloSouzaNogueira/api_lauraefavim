@@ -3174,6 +3174,249 @@
                 "Tipo": 200
             }
         ]
+    },
+    {
+        "id": 17,
+        "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_02.jpg",
+        "DataConversa": "24 DE JULHO DE 2018",
+        "Prioritaria": false,
+        "Mensagens": [
+            {
+                "Texto": "Falar em música",
+                "Ordem": 1,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Tava tocando um pouquinho aqui",
+                "Ordem": 2,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Mas to muito enferrujado",
+                "Ordem": 3,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Cê toca?!",
+                "Ordem": 4,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Que lindo 😊",
+                "Ordem": 5,
+                "Tipo": 100
+            },
+            {
+                "Texto": "O que você toca?",
+                "Ordem": 6,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eu arranho a guitarra",
+                "Ordem": 7,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ainda mais dps d ter ficado 4 anos parado por causa da graduação",
+                "Ordem": 8,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Não sobrava tempo pra praticar",
+                "Ordem": 9,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ai veio a pós e continue sem tempo",
+                "Ordem": 10,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Agora q deu o recesso q estou brincando um pouco. É o que me tira um pouco a ansiedade. Me faz relaxar um pouco",
+                "Ordem": 11,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Eu gosto muito d folk e blues",
+                "Ordem": 12,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Aaaaah muito bom.",
+                "Ordem": 13,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Eu amo música.",
+                "Ordem": 14,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Acho que alivia",
+                "Ordem": 15,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Sabe.",
+                "Ordem": 16,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Tira um peso das costas.  Não toco mas ouço muita música.",
+                "Ordem": 17,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Nossa dmais da conta",
+                "Ordem": 18,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Vc ja deve ter me visto la na sala com fone d ouvido",
+                "Ordem": 19,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Só consigo programar escutando música kkkkk",
+                "Ordem": 20,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs",
+                "Ordem": 21,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas sou fã mil vezes de uma banda nada famosa brasileira",
+                "Ordem": 22,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mesmo",
+                "Ordem": 23,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Amooooooo 💚😊",
+                "Ordem": 24,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Todos os tipos? Todos os gêneros? De Elvis Presley a MC Loma 😂😂😂😂",
+                "Ordem": 25,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Não.",
+                "Ordem": 26,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Odeio pagode",
+                "Ordem": 27,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Fala ai qual é. Provavelmente não vou conhecer. Música brasileira não é o meu forte",
+                "Ordem": 28,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ja tive minha fase d pagode kkkkk. Escutava o Zeca direto kkkkkkkkkkkkkk. E olha q hj em dia eu curto rock 😬",
+                "Ordem": 29,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Chama O Teatro Mágico",
+                "Ordem": 30,
+                "Tipo": 100
+            },
+            {
+                "Texto": "💛",
+                "Ordem": 31,
+                "Tipo": 100
+            },
+            {
+                "Texto": "https://youtu.be/wWs2dqKRgdI",
+                "Ordem": 32,
+                "Tipo": 100
+            },
+            {
+                "Texto": "AAACOONTEECEEERAAAA",
+                "Ordem": 33,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Kkkkkkk",
+                "Ordem": 34,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Interessante",
+                "Ordem": 35,
+                "Tipo": 200
+            },
+            {
+                "Texto": "E é bemmmm sua cara 😄😄",
+                "Ordem": 36,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Música bunitinha, serena, calma, feliz. Só faltou uma pitadinha d ansiedade",
+                "Ordem": 37,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ai fechou kkkkkkkk",
+                "Ordem": 38,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Kkkkkk",
+                "Ordem": 39,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Para de cagar com minha melhor banda",
+                "Ordem": 40,
+                "Tipo": 100
+            },
+            {
+                "Texto": "🤣🤣🤣🤣",
+                "Ordem": 41,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Kkkk ja dizia o Titãs",
+                "Ordem": 42,
+                "Tipo": 200
+            },
+            {
+                "Texto": "A melhor banda d todos os tempos da última semana",
+                "Ordem": 43,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Titãs 💛💛💛💛💛",
+                "Ordem": 44,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Ira",
+                "Ordem": 45,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas nenhuma supera o Rappa",
+                "Ordem": 46,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😍",
+                "Ordem": 47,
+                "Tipo": 100
+            },
+        ]
     }
 
     
