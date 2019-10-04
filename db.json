@@ -2996,7 +2996,186 @@
                 "Tipo": 200
             }
         ]
+    },
+    {
+        "id": 16,
+        "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_01.jpg",
+        "DataConversa": "24 DE JULHO DE 2018",
+        "Prioritaria": false,
+        "Mensagens": [
+            {
+                "Texto": "Aquele 'Kara' já é surtado sow",
+                "Ordem": 1,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Da impressão q ele não ta nem ai pra nada pq ele gosta d pagar d fodao",
+                "Ordem": 2,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Sei lá eu acho ele muito estranho",
+                "Ordem": 3,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Já a Claudia eu não sei. Não converso muito com ela. Mas ela parece ser muito séria",
+                "Ordem": 4,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ela fica naquela janela da cozinha tomando café d manhã. Toda vez q vejo ela lá, lembro dessa veinha da propaganda da Zap Imoveis 😂😂😂😂😂😂",
+                "Ordem": 5,
+                "Tipo": 200
+            },
+            {
+                "Texto": "🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+                "Ordem": 6,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😄😄😄😄 tbm reparei isso. Só não quis dizer, pq falam q os opostos se atraem, oq não é o nosso caso",
+                "Ordem": 7,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Temos ansiedade",
+                "Ordem": 8,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Temos opiniões semelhantes sobre o pessoal da Ius",
+                "Ordem": 9,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Somos viciados em series e filmes",
+                "Ordem": 10,
+                "Tipo": 200
+            },
+            {
+                "Texto": "...",
+                "Ordem": 11,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Ai meu medo é do ditado ser verdadeiro 😰😰😰",
+                "Ordem": 12,
+                "Tipo": 200
+            },
+            {
+                "Texto": "É igual o Ricardo diretor",
+                "Ordem": 13,
+                "Tipo": 200
+            },
+            {
+                "Texto": "La na sala nós chamamos ele d 'menino rick'",
+                "Ordem": 14,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Estilo como o Galvão idolatra o Neymar chamando ele d 'menino Ney'",
+                "Ordem": 15,
+                "Tipo": 200
+            },
+            {
+                "Texto": "🤣🤣🤣🤣🤣",
+                "Ordem": 15,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Não acredito nessa de os opostos se atraem.",
+                "Ordem": 16,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Acho que os dispostos se atraem.",
+                "Ordem": 17,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😊",
+                "Ordem": 18,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Vou dar uma arrumada no meu quarto, lavar minha mochila e depois te chamo.",
+                "Ordem": 19,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Se você não  tiver ocupado",
+                "Ordem": 20,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Booooaaaa bem pensado 😄😄",
+                "Ordem": 21,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Pra vc nunca 😊😊",
+                "Ordem": 22,
+                "Tipo": 200
+            },
+            {
+                "Texto": "A não ser q o menino Rick me chame 😬😬😬",
+                "Ordem": 23,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Rs",
+                "Ordem": 24,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Menino Rick. Vamos esquecer a Ius por hoje ?",
+                "Ordem": 25,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😬😬😬😬",
+                "Ordem": 26,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Siiimmmm",
+                "Ordem": 27,
+                "Tipo": 200
+            },
+            {
+                "Texto": "Msmo pq o dia ja ta acabando msmo",
+                "Ordem": 28,
+                "Tipo": 200
+            },
+            {
+                "Texto": "🤣",
+                "Ordem": 29,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Mas temos tempo ainda.",
+                "Ordem": 30,
+                "Tipo": 100
+            },
+            {
+                "Texto": "Somos tão jovens, tão jovens 🎙🎙🎙",
+                "Ordem": 31,
+                "Tipo": 100
+            },
+            {
+                "Texto": "😁",
+                "Ordem": 32,
+                "Tipo": 100
+            },
+            {
+                "Texto": "🙌🏼🙌🏼🙌🏼🙌🏼",
+                "Ordem": 33,
+                "Tipo": 200
+            }
+        ]
     }
+
     
 ]
 }
