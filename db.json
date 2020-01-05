@@ -4339,7 +4339,355 @@
                 "Tipo": 100
             }
         ]
-    }
+    },
+    {
+    "id": 22,
+    "Foto": "https://laurafavim.s3.amazonaws.com/fotos/foto_02.jpg",
+    "DataConversa": "25 DE JULHO DE 2018",
+    "Prioritaria": false,
+    "Mensagens": [
+        {
+            "Texto": "Rs.  Hoje eu até ia comentar com você, só que nem deu tempo.",
+            "Ordem": 1,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Hoje nem fiquei tão ansiosa como de costume.",
+            "Ordem": 2,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Acho que conversar ontem com você foi tão bom.",
+            "Ordem": 3,
+            "Tipo": 100
+        },
+        {
+            "Texto": "😊😊😊😊😊",
+            "Ordem": 4,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Foi ótimo",
+            "Ordem": 5,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Tirou um pouco da minha insegurança tbm",
+            "Ordem": 6,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Só to triste q perdi os barracos no Master Chef kkakakakakak",
+            "Ordem": 7,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Não não. 😂😂😂😂 Deixa de ser barraqueiro. Cê tem que assistir pra aprender a cozinhar e me chamar pra experimentar.",
+            "Ordem": 8,
+            "Tipo": 100
+        },
+        {
+            "Texto": "🤦🏻‍♂",
+            "Ordem": 9,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Aiiii complicou",
+            "Ordem": 10,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Sou um desastre ambulante na cozinha",
+            "Ordem": 11,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Vou fritar ovo, respinga mais óleo em mim do q no ovo",
+            "Ordem": 12,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Eu assisto mais é pra ver os jurados cobrando os participantes e os participantes passando a perna um nos outros 😂😂😂",
+            "Ordem": 13,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Kkkk eu sou bem estabanada também. Mas consigo fazer algumas coisas.",
+            "Ordem": 14,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Rs.",
+            "Ordem": 15,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Básico do básico.",
+            "Ordem": 16,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Mas as vezes tento alguma coisa.",
+            "Ordem": 17,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Mamãe tá de férias. Hoje ela fez bolo de morango e torta de flango",
+            "Ordem": 18,
+            "Tipo": 100
+        },
+        {
+            "Texto": "😋😋😋😋",
+            "Ordem": 19,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Flango Flango kkkkkk lembro do filme Hora do Rush",
+            "Ordem": 20,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Assistia mil vezes no SBT",
+            "Ordem": 21,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Passava no domingo depois do Silvio Santos no '08:30 nos Cinemas'",
+            "Ordem": 22,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Só q começava la pras 10 kkkk",
+            "Ordem": 23,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Minha mãe é fera na cozinha, mas meu pai é fora d série. Faz uma farinha de amendoim 👌",
+            "Ordem": 24,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Hmmmmm",
+            "Ordem": 25,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Que delícia.  Amo pessoas que são boas na cozinha 💛😍💛😍",
+            "Ordem": 26,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Acho que uma espécie de inveja boa.",
+            "Ordem": 27,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Vou fazer um suquinho ali.",
+            "Ordem": 28,
+            "Tipo": 100
+        },
+        {
+            "Texto": "É um dom pra mim. Obviamente que com a praticamente chega a perfeição, mas se não fizer com amor, nem adianta praticar",
+            "Ordem": 29,
+            "Tipo": 200
+        },
+        {
+            "Texto": "pratica**",
+            "Ordem": 30,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Rs eu amo fazer brigadeiro",
+            "Ordem": 31,
+            "Tipo": 100
+        },
+        {
+            "Texto": "E sai bom",
+            "Ordem": 32,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Tá",
+            "Ordem": 33,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Rs*",
+            "Ordem": 34,
+            "Tipo": 100
+        },
+        {
+            "Texto": "ohhhh",
+            "Ordem": 35,
+            "Tipo": 200
+        },
+        {
+            "Texto": "QUERO",
+            "Ordem": 36,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Acabou q fiquei te devendo um doce da festinha da Geovana",
+            "Ordem": 37,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Vou procurar se sobrou algum aqui ainda",
+            "Ordem": 38,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Sou pior q formiga kkkkkk",
+            "Ordem": 39,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Rs. Eu até que não sou assim com doce não.",
+            "Ordem": 40,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Só quando tô indo pra tpm ai fico desesperada por um doce.",
+            "Ordem": 41,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Aí já sei que o presente está a caminho.",
+            "Ordem": 42,
+            "Tipo": 100
+        },
+        {
+            "Texto": "No mais, fico feliz com. Sorvete.",
+            "Ordem": 43,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Uhummm sorvete",
+            "Ordem": 44,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Eu tô gostando agora é de Açaí",
+            "Ordem": 45,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Tem um colega de Pós que é dono de uma distribuidora de Açaí, sorvete e um monte de coisas do gênero",
+            "Ordem": 46,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Ele levou uma vez la na sala um ponte de 10L de Açaí",
+            "Ordem": 47,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Mas você não gostava antes ?",
+            "Ordem": 48,
+            "Tipo": 100
+        },
+        {
+            "Texto": "🤭",
+            "Ordem": 49,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Açaí é vida.",
+            "Ordem": 50,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Não tem condições, é sensacional",
+            "Ordem": 51,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Todo fim de semana minha irmã pede.",
+            "Ordem": 52,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Mas o dele é diferente",
+            "Ordem": 53,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Pq o dele é direto da distribuidora",
+            "Ordem": 54,
+            "Tipo": 200
+        },
+        {
+            "Texto": "É ai não tem adição de guaraná.",
+            "Ordem": 55,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Deve ser bom mesmo.",
+            "Ordem": 56,
+            "Tipo": 100
+        },
+        {
+            "Texto": "O que nós compramos não é mesma coisa, pq o fornecedor final não adiciona agua, leite sei lá, pra fazer o trem render mais kkkkk",
+            "Ordem": 57,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Uhum e charope de guaraná.",
+            "Ordem": 58,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Guaraná? Não sabia q Açaí tinha guaraná",
+            "Ordem": 59,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Quanto mais doce for o açaí, mais charope de guaraná tem nele.",
+            "Ordem": 60,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Olha só Laura tbm é cultura kkkkkk",
+            "Ordem": 61,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Comasim?",
+            "Ordem": 62,
+            "Tipo": 100
+        },
+        {
+            "Texto": "🤦🏻‍♂",
+            "Ordem": 63,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Uai, depois de aprender o significado de ressignificação, agora eu aprendi q Açaí vem com guaraná, xarope de graraná precisamente",
+            "Ordem": 64,
+            "Tipo": 200
+        },
+        {
+            "Texto": "Menina é cultura pura",
+            "Ordem": 65,
+            "Tipo": 200
+        },
+        {
+            "Texto": "🤩🤩🤩🤩",
+            "Ordem": 66,
+            "Tipo": 200
+        },
+        {
+            "Texto": "😂😂😂😂😂😂",
+            "Ordem": 67,
+            "Tipo": 100
+        },
+        {
+            "Texto": "Ai meu Deus. Deixa de ser bobo.  Passa até na tv isso.",
+            "Ordem": 68,
+            "Tipo": 100
+        }
+    ]
+}
     
 ]
 }
